@@ -12,7 +12,7 @@ Here are the steps I took to get started with Jupyter notebook:
 conda create --name jupyter "python>=3"
 ```
 
-This creates a new conda virtual environment named `jupyter` with Python 3 installed. As of December 2018, the latest version is 3.7.1, which is the version that gets installed with the above command. And if the latest version when you're reading this happens to be 3.8.2
+This creates a new conda virtual environment named `jupyter` with Python 3 installed. As of December 2018, the latest version is 3.7.1, which is the version that gets installed with the above command. And if the latest version when you're reading this happens to be 3.8.2, then you'll have 3.8.2 in your virtual environment.
 
 ```shell
 conda activate jupyter
@@ -70,7 +70,7 @@ In either case, you can make a new Jupyter notebook right in the browser. In the
 
 Your new notebook will be blank and look something like this:
 
-![blank Jupyter notebook](img/jupyter_new.png)
+![blank Jupyter notebook](/img/jupyter_new.png)
 
 Click on `Untitled` and give your notebook a name, such as `hello_world`.
 
@@ -84,7 +84,7 @@ print(f"Here is a list of squares: {squares}")
 
 Type SHIFT-ENTER to execute the code. Your notebook should now look something like this:
 
-![Jupyter notebook with some Python code](img/jupyter_hello_world.png)
+![Jupyter notebook with some Python code](/img/jupyter_hello_world.png)
 
 Click the first icon which looks like a floppy disk to save your notebook (Jupyter will also autosave your notebook).
 
