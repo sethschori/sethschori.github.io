@@ -12,7 +12,7 @@ Here are my takeaways from the survey:
   - **Python** 72%
   - **Java** 62%
   - **R** 23%
-  (As an aside, **Kotlin** runs on the Java Virtual Machine, integrates with Hadoop and Spark, and is more concise than Java. It is sponsored by JetBrains, and the survey acknowledges that it likely has some bias, but Kotlin may be an up-and-coming language.) 
+- As an aside, **Kotlin** runs on the Java Virtual Machine, integrates with Hadoop and Spark, and is more concise than Java. It is sponsored by JetBrains, and the survey acknowledges that it likely has some bias, but Kotlin may be an up-and-coming language.
 - **Spark** is most popular for big data, followed closely by **Hadoop**. 
 - **Jupyter** notebooks and **PyCharm** are the most popular IDEs/editors. 
 - **TensorFlow** is the most popular deep learning library. (TensorFlow is lower-level than scikit-learn, according to [these Quora answers](https://www.quora.com/What-are-the-main-differences-between-TensorFlow-and-SciKit-Learn).) 
