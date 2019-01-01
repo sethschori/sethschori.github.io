@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Renaming and removing columns in pandas DataFrames"
+title:  "Renaming and Removing Columns in pandas DataFrames"
 date:   2019-01-01 17:08:00 -0500
 categories: data-science
 ---

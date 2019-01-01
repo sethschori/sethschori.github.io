@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "pandas tips"
+title:  "pandas Tips"
 date:   2019-01-01 12:50:00 -0500
 categories: data-science
 ---
