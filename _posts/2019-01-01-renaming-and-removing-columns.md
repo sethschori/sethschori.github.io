@@ -7,38 +7,46 @@ categories: data-science
 ## Renaming columns
 Four methods for renaming columns in a pandas DataFrame:
 
-1. `foo.rename(columns={}, inplace=True)`
+### 1. Rename specific columns
+ 
+`foo.rename(columns={}, inplace=True)`
 
-   **Rename specific columns.** Pass a dict of columns to be 
-   renamed. For example:
+Pass a dict of columns to be renamed. For example:
 
-   ```python
-   foo.rename(columns={'old_col1': 'new_col1',
-                       'old_col2': 'new_col2'},
-                       inplace=True)
-   ```
-1. `foo.columns = ['new_col1', 'new_col2']`
+```python
+foo.rename(columns={'old_col1': 'new_col1',
+                    'old_col2': 'new_col2'},
+                    inplace=True)
+```
 
-   **Rename all the column names.** Set `.columns` to a list of all
-    of the new column names.
-1. **Rename the columns when reading in a file.** For example:
+### 2. Rename all the column names
 
-   ```python
-   foo_new_names = ['new_col1', 'new_col2']
-   foo = pd.read_csv(data_file.csv,
-                     names=foo_new_names,
-                     header=0)
-   ```
+Set `.columns` to a list of all of the new column names. For example:
 
-   Note that in addition to setting the `names` parameter to a list of the 
-   new column names, you must also set `header=0` to indicate that you're 
-   replacing the existing column names in the 0th row (if the 0th row is a 
-   header row).
-1. **Replace existing spaces in column names with underscores:**
+```python
+foo.columns = ['new_col1', 'new_col2']
+```
 
-   ```python
-   foo.columns = foo.columns.str.replace(' ', '_')
-   ```
+### 3. Rename the columns when reading in a file
+
+For example:
+
+```python
+foo_new_names = ['new_col1', 'new_col2']
+foo = pd.read_csv(data_file.csv,
+                  names=foo_new_names,
+                  header=0)
+```
+
+Note that in addition to setting the `names` parameter to a list of the new 
+column names, you must also set `header=0` to indicate that you're replacing 
+the existing column names in the 0th row (if the 0th row is a header row).
+
+### 4. Replace existing spaces in column names with underscores:
+
+```python
+foo.columns = foo.columns.str.replace(' ', '_')
+```
 
 ## Removing columns (and rows)
 Here is the general syntax:
