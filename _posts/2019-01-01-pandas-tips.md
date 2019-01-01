@@ -36,8 +36,9 @@ ufo.head()
 ```
 
 ## Keyboard tricks in Jupyter notebooks
-- You can also access all of an object's methods and attribues by typing 
-`<pandas_object>.` + `TAB-key`.
+- You can access all of an object's methods and attributes by typing 
+`<name_of_the_pandas_object>.` + `TAB-key`. (That's the name of the pandas 
+object, followed by a period and the tab key.)
 - To see the optional or required parameters for a function or a method, when inside of the parentheses, hit `SHIFT` + `TAB` one, two, three, or four times.
 
 ## A few helpful methods and attributes
@@ -45,9 +46,9 @@ ufo.head()
 DataFrame and produces results like this:
 
   ![.describe() results](/img/describe.png)
-- `.shape` an attribute that returns a tuple with in number of rows and 
+- `.shape` an attribute that returns a tuple with the number of rows and 
 columns
-- `.dtypes` an attribute that returns that types of each of the Series in 
+- `.dtypes` an attribute that returns the types of each of the Series in 
 the DataFrame, which produces results like this:
 
   ![.dtypes results](/img/dtypes.png)
