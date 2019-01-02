@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sorting and filtering in pandas"
+title:  "Sorting and Filtering in pandas"
 date:   2019-01-01 22:22:00 -0500
 categories: data-science
 ---
@@ -51,7 +51,7 @@ which is based on
 
 ### Filtering rows based on multiple column criteria
 
-Each criterion must be enclosed in parentheses and chain together with 
+Each criterion must be enclosed in parentheses and chained together with 
 either `&` (AND) or `|` (OR). For example:
 
 ```python
