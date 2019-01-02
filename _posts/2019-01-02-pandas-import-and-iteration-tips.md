@@ -54,7 +54,7 @@ This is incredibly easy, and just like iterating over any iterable in Python.
  For example:
 
 ```python
-for city in foo.City:
+for city in foo.City:  # foo is a pandas DataFrame
     print(city)
 ```
 
@@ -62,6 +62,6 @@ for city in foo.City:
 Using the DataFrame `.iterrows()` method is similar to `enumerate` in python:
 
 ```python
-for index, row in foo.iterrows():
+for index, row in foo.iterrows():  # foo is a pandas DataFrame
     print(index, row.City, row.State)
 ```
