@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sorting and filtering in pandas"
-date:   2019-01-01 20:08:00 -0500
+date:   2019-01-01 22:22:00 -0500
 categories: data-science
 ---
 ## Sorting
