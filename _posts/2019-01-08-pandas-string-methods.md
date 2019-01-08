@@ -15,20 +15,26 @@ For example:
 `series_name` (in the DataFrame called `df`) to uppercase
 - `df.series_name.str.title()` changes the strings to title case (first 
 character of each word is capitalized)
-- These `.str()` methods on a Series return a Series. In the case of 
-`df.series_name.str.contains('bar')` the `.contains()` method returns a 
-Series of `True`s and `False`s, in which `True` is returned if the string in
-the Series `series_name` contains `bar` and `False` is returned if the string 
-in the Series `series_name` does not contain `bar`.
-  - You could easily use the `.contains()` method to filter a DataFrame. For
-   example:
+- String methods on a Series return a Series. In the case of 
+
+  ```python
+  df.series_name.str.contains('bar')
+  ```
+
+  the `.contains()` method returns a Series of `True`s and `False`s, in which 
+  `True` is returned if the string in the Series `series_name` contains `bar` 
+  and `False` is returned if the string in the Series `series_name` does not 
+  contain `bar`.
+- You could easily use the `True`/`False` Series returned by the `.contains()` 
+method above to filter a DataFrame. For example:
   
-     ```python
-     df[df.series_name.str.contains('bar')]
-     ```
-    will return a new DataFrame filtered to only those rows in which the 
-    `series_name` Series (aka the column called `series_name`) contains the 
-    string `bar`.
+  ```python
+  df[df.series_name.str.contains('bar')]
+  ```
+  
+  will return a new DataFrame filtered to only those rows in which the 
+  `series_name` Series (aka the column called `series_name`) contains the 
+  string `bar`.
 
 You can see all of the `str` methods available in the 
 [pandas API reference](https://pandas.pydata.org/pandas-docs/stable/api.html#string-handling).
@@ -42,26 +48,36 @@ df.series_name.str.replace('[', '').str.replace(']', '')
 
 will operate on the Series called `series_name` in the DataFrame called `df`.
 The first `.replace()` method will replace `[` with nothing and the second
-`.replace()` method will replace `]` with nothing.
+`.replace()` method will replace `]` with nothing, allowing you to remove 
+the brackets from the strings in the Series.
 
-## Many pandas `str` methods accept regular expressions
-The two chained `.replace()` methods in the above example can be replaced 
+## Many pandas string methods accept regular expressions
+The two chained `.replace()` methods in the previous example can be replaced 
 with a singular regex `.replace()`, like this:
 
 ```python
 df.series_name.str.replace('[\[\]]', '')
 ```
 
-Here, the `.replace()` method is taking the `regex` string `'[\[\]]'` and 
-replacing with nothing. That `regex` `'[\[\]]'` can be deconstructed as 
+Here, the `.replace()` method is taking the `regex` string 
+
+```python
+'[\[\]]'
+```
+
+and replacing with nothing. That regular expression can be deconstructed as 
 follows:
 
 - the outer brackets `[` and `]` define a character class, meaning that any 
 of the characters within those character class brackets will be replaced
-- the inner `\[\]` are the two characters `[` and `]` which will be 
-replaced. However, since brackets have a special meaning in regular 
-expressions, they need to be escaped with backslashes `\ `. So the 
-characters to be replaced end up looking like this: `\[\]`.
+- inside the outer brackets is `\[\]`. It represents the two characters 
+`[` and `]` which will be replaced. However, since brackets have a special 
+meaning in regular expressions, they need to be escaped with backslashes `\ `. 
+So the bracket characters to be replaced end up looking like this: 
 
-You can see working examples of all of the above in my 
+  ```python
+  \[\]
+  ```
+
+You can see working code for all of the above examples in my 
 [Jupyter notebook](https://github.com/sethschori/jupyter/blob/master/12_string_methods_in_pandas.ipynb)
