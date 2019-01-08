@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "pandas string methods`
+title:  "pandas string methods"
 date:   2019-01-08 12:53:00 -0500
 categories: data-science
 ---
