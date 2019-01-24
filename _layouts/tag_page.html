@@ -1,0 +1,13 @@
+layout: default
+---
+
+{{ page.tag }}
+
+
+    {% for post in page.posts %}
+    {{ post.title }} ({{ post.date | date_to_string }} | Tags: {{ post | tags }})
+
+    {% endfor %}
+
+
+{{ site | tag_cloud }}
