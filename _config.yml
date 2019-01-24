@@ -13,14 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+permalink: /blog/:categories/:year/:month/:day/:title.html # put posts in /blog
 title: Seth Schori
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Seth Schori's blog about his adventures in coding.
+  Blogging about my adventures in coding.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.sethschori.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sethschori
 github_username:  sethschori
+
+# Layout settings added 1/24/2019
+tag_page_layout: tag_page
+tag_page_dir: tag
 
 # Build settings
 markdown: kramdown
