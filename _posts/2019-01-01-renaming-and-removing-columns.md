@@ -2,7 +2,9 @@
 layout: post
 title:  "Renaming and Removing Columns in pandas DataFrames"
 date:   2019-01-01 17:08:00 -0500
-categories: data-science
+categories: data-science 
+tags:
+- pandas
 ---
 ## Renaming columns
 Four methods for renaming columns in a pandas DataFrame:

@@ -2,7 +2,9 @@
 layout: post
 title:  "Getting Started with Jupyter notebook"
 date:   2018-12-07 11:30:00 -0500
-categories: jupyter data-science
+categories: data-science
+tags:
+- jupyter
 ---
 Here are the steps I took to get started with Jupyter notebook:
 

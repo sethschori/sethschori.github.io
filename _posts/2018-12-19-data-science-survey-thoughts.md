@@ -3,6 +3,8 @@ layout: post
 title:  "Thoughts on JetBrains' 2018 Data Science Survey"
 date:   2018-12-19 14:30:00 -0500
 categories: data-science
+tags:
+- meta data science
 ---
 As I’m considering pursuing a career in data science, I found JetBrains [2018 Data Science Survey](https://www.jetbrains.com/research/data-science-2018/) interesting because it gives me a sense (albeit an imperfect one) of which tools and technologies might be most useful to learn.
 

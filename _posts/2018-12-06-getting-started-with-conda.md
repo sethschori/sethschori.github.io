@@ -2,7 +2,10 @@
 layout: post
 title:  "Getting Started with conda"
 date:   2018-12-06 20:55:13 -0500
-categories: anaconda data-science
+categories: data-science
+tags:
+- anaconda
+- conda
 ---
 There are some good resources for getting started with conda on the conda website:
 

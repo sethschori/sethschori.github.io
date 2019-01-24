@@ -3,6 +3,8 @@ layout: post
 title:  "pandas Tips"
 date:   2019-01-01 12:50:00 -0500
 categories: data-science
+tags:
+- pandas
 ---
 ## Dot notation vs. bracket notation to select a Series
 Each panda Series is essentially a column within a pandas DataFrame. 

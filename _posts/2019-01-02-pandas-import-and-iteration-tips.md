@@ -3,6 +3,8 @@ layout: post
 title:  "pandas Import and Iteration Tips"
 date:   2019-01-02 10:52:00 -0500
 categories: data-science
+tags:
+- pandas
 ---
 This post is based on my takeaways from a [Q & A video](https://youtu.be/B-r9VuK80dk)
 from [Data School](https://www.dataschool.io/).

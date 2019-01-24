@@ -2,7 +2,9 @@
 layout: post
 title:  "Sorting and Filtering in pandas"
 date:   2019-01-01 22:22:00 -0500
-categories: data-science
+categories: data-science 
+tags:
+- pandas
 ---
 ## Sorting
 

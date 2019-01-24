@@ -3,6 +3,8 @@ layout: post
 title:  "pandas vs. SQL"
 date:   2019-01-08 11:58:00 -0500
 categories: data-science
+tags:
+- pandas
 ---
 As I'm starting to learn pandas, I noticed that it seems to have the 
 capabilities of doing everything that SQL can do, and more. So I was curious 

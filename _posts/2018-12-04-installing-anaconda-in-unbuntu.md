@@ -2,7 +2,9 @@
 layout: post
 title:  "Installing Anaconda in Ubuntu"
 date:   2018-12-04 22:32:13 -0500
-categories: anaconda data-science
+categories: data-science
+tags:
+- anaconda
 ---
 ## Why I chose to install Anaconda in Ubuntu Linux
 

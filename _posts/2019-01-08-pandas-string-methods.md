@@ -3,6 +3,8 @@ layout: post
 title:  "pandas string methods"
 date:   2019-01-08 12:53:00 -0500
 categories: data-science
+tags:
+- pandas
 ---
 This blog post is based on [lesson 12 ("How do I use string methods in 
 pandas?")](https://www.youtube.com/watch?v=bofaC0IckHo&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=12) 

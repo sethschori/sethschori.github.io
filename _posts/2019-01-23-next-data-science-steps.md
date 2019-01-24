@@ -3,6 +3,8 @@ layout: post
 title:  "Next Data Science Steps and What I've Been Up To Recently"
 date:   2019-01-23 23:25:00 -0500
 categories: data-science
+tags:
+- meta data science
 ---
 I haven't blogged in about two weeks. Here's what I've been up to with 
 data science and programming recently.
