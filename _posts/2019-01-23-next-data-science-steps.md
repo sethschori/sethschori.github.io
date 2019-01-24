@@ -31,6 +31,7 @@ have.
   `simple_salesforce` Python package, which worked well and which I was 
   grateful for, but it did introduce a layer of abstraction that led to a 
   slightly more superficial understanding.
+ 
 - I had another helpful informational interview with a data scientist doing 
 machine learning. From this, I realized that I want to test whether I'm
 interested in machine learning, because that will influence my learning path.
@@ -40,9 +41,11 @@ programming experience, completed a data science masters degree at a
 prestigious university, and is working in the industry. Although the course 
 material is fairly old, he thinks that Andrew explains the material really 
 well. It's a 55-hour course (free!) and I've recently gotten started on it.
+
 - Finally, another client I've been assisting with work that's tangentially 
 related to programming has more directly involved me in programming. 
-I've getting my toes wet with Ruby on Rails and it's my first time working 
+I've been getting my toes wet with Ruby on Rails and it's my first time 
+working 
 with a production web app. It's been interesting trying to wrap my brain 
 around all the parts of a web app (still more to learn!) and to see how 
 things are set up at a startup where the founders are all accomplished 
