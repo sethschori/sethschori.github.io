@@ -75,7 +75,7 @@ In either case, you can make a new Jupyter notebook right in the browser. In the
 
 Your new notebook will be blank and look something like this:
 
-![blank Jupyter notebook](/img/jupyter_new.png)
+![blank Jupyter notebook](../assets/images/jupyter_new.png)
 
 Click on `Untitled` and give your notebook a name, such as `hello_world`.
 
@@ -89,7 +89,7 @@ print(f"Here is a list of squares: {squares}")
 
 Type SHIFT-ENTER to execute the code. Your notebook should now look something like this:
 
-![Jupyter notebook with some Python code](/img/jupyter_hello_world.png)
+![Jupyter notebook with some Python code](../assets/images/jupyter_hello_world.png)
 
 Click the first icon which looks like a floppy disk to save your notebook (Jupyter will also autosave your notebook).
 

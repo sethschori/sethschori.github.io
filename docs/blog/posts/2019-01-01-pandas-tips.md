@@ -50,13 +50,13 @@ object, followed by a period and the tab key.)
 - `.describe(include='all')` a method that returns statistics about a 
 DataFrame and produces results like this:
 
-  ![.describe() results](/img/describe.png)
+  ![.describe() results](../assets/images/describe.png)
 - `.shape` an attribute that returns a tuple with the number of rows and 
 columns
 - `.dtypes` an attribute that returns the types of each of the Series in 
 the DataFrame, which produces results like this:
 
-  ![.dtypes results](/img/dtypes.png)
+  ![.dtypes results](../assets/images/dtypes.png)
 
 Note that -- just like in Python -- methods must be followed by `()` and 
 attributes must not.
