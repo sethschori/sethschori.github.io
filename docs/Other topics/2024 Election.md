@@ -7,7 +7,7 @@ Here are ways that I'm taking action this election season:
 - Janelle Stelson, PA-10 — Call voters with Massachusetts’ own [Swing Blue Alliance](https://swingbluealliance.org/) to elect Pennsylvania Democrat Janelle Stelson to Congress, fire MAGA Republican Congressman Scott Perry, and Flip the House. Pennsylvania is a battleground state critical to defeating Trump. [Sign up for calling on Thursdays or Sundays!](https://www.mobilize.us/swingbluealliance/event/644234/)
 - 
 ## Canvassing / Door knocking
-- New Hampshire — I’m planning to join other Massachusetts volunteers for [door knocking in Nashua, NH](https://www.mobilize.us/massdems/event/636785/) or [door knocking in Manchester, NH](https://www.mobilize.us/massdems/event/634549/). 
+- New Hampshire — I’m planning to join other Massachusetts volunteers for [door knocking in Nashua, NH](https://www.mobilize.us/massdems/event/636785/) or [door knocking in Manchester, NH](https://www.mobilize.us/massdems/event/634549/). I’ve heard that the local and congressional races are important and that New Hampshire needs the help from Massachusetts volunteers.
 
 ## Other opportunities
 I'm not directly involved in the following, but wanted to share these as well:
