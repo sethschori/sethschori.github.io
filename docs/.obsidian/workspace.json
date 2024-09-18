@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/posts/2019-01-08-pandas-vs-sql.md",
+                "file": "Other topics/2024 Election.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/posts/2019-01-08-pandas-vs-sql.md",
+                "file": "Other topics/2024 Election.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/posts/2019-01-08-pandas-vs-sql.md",
+                "file": "Other topics/2024 Election.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/posts/2019-01-08-pandas-vs-sql.md"
+                "file": "Other topics/2024 Election.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "388109ec2185598b",
   "lastOpenFiles": [
+    "blog/posts/2019-01-08-pandas-vs-sql.md",
     "blog/posts/2019-01-23-next-data-science-steps.md",
     "blog/posts/2019-05-03-web-scraping-embedded-json.md",
     "blog/posts/2018-12-07-getting-started-with-jupyter-notebook.md",
