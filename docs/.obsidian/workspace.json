@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other topics/2024 Election.md",
+                "file": "blog/posts/2019-01-08-pandas-vs-sql.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other topics/2024 Election.md",
+                "file": "blog/posts/2019-01-08-pandas-vs-sql.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Other topics/2024 Election.md",
+                "file": "blog/posts/2019-01-08-pandas-vs-sql.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Other topics/2024 Election.md"
+                "file": "blog/posts/2019-01-08-pandas-vs-sql.md"
               }
             }
           }
@@ -143,13 +143,17 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "379bebcbb44f1e0b",
+  "active": "388109ec2185598b",
   "lastOpenFiles": [
-    "index.md",
+    "blog/posts/2019-01-23-next-data-science-steps.md",
+    "blog/posts/2019-05-03-web-scraping-embedded-json.md",
     "blog/posts/2018-12-07-getting-started-with-jupyter-notebook.md",
+    "Other topics/2024 Election.md",
+    "index.md",
     "blog/assets/images/describe.png",
     "blog/assets/images/jupyter_new.png",
     "blog/assets/images/jupyter_hello_world.png",
