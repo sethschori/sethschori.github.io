@@ -1,4 +1,4 @@
-I invite you to join me in any, or all, of these ways that I'm taking action this election season.
+I invite you to join me in any, or all, of these ways that I'm taking action this election season!
 ## Donations
 
 - Support the **Harris Walz campaign** at [kamalaharris.com](https://kamalaharris.com/)
