@@ -4,7 +4,7 @@ Here are ways that I'm taking action this election season:
 - **Force Multiplier**'s House Impact Slate, Senate Slate, and Blue Surge Turnout Fund: [www.forcemultiplierus.org](https://www.forcemultiplierus.org/) 
 	- Force Multiplier originally started in the Boston area. They're an all-volunteer group that provides donors with research based recommendations on which races are most likely to affect the balance of power in the House + Senate.
 ## Phone banking
-- 
+- Janelle Stelson, PA-10 — Call voters with Massachusetts’ own [Swing Blue Alliance](https://swingbluealliance.org/) to elect Pennsylvania Democrat Janelle Stelson to Congress, fire MAGA Republican Congressman Scott Perry, and Flip the House. Pennsylvania is a battleground state critical to defeating Trump. [Sign up for calling on Thursdays or Sundays!](https://www.mobilize.us/swingbluealliance/event/644234/)
 ## Canvassing
 
 ## Other opportunities
