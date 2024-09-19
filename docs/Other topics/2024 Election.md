@@ -17,6 +17,10 @@ I invite you to join me in any, or all, of these ways that I'm taking action thi
 
 I'm not directly involved in the following, but wanted to share these opportunities as well:
 
+- **Join Bend the Arc** for remote volunteering opportunities:
+	- Reach out to voters in Wisconsin to do non-partisan vote planning before the November election. Sundays in October/November. [Details and sign up here](https://www.mobilize.us/bendthearc/event/686040/).
+	- Join Bend the Arc: Jewish Action and One Arizona to call voters in the state before the general election. [Details and sign up here](https://www.mobilize.us/bendthearc/event/689796/).
+	- Jews for Kamala Harris Phonebank — [details and sign up](https://www.mobilize.us/bendthearc/event/687109/).
 - **Go door knocking in swing states with Seed The Vote** — I've heard from a couple of people who are volunteering with [Seed The Vote](https://seedthevote.org/) in Nevada and Michigan. You can read [this blog post about a weekend volunteering with STV in Reno, Nevada](http://caelections.blogspot.com/2024/09/JK-Reno-STV.html) from someone I know. As Jeff writes:
   >STV most needs volunteers in the critical swing states of Arizona, Michigan, Wisconsin, & Pennsylvania. We're knocking in all those states now through election day. For those who need financial support, STV can often help cover hotel & flight costs. To learn more, sign up for an [info session here](https://www.mobilize.us/seedthevote/event/595794/).
 - **Join a phone bank with Swing Blue Alliance** — SBA has [additional phone banking opportunities for calling swing states](https://www.mobilize.us/swingbluealliance/). 
