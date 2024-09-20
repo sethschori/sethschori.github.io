@@ -17,7 +17,8 @@ jobs:
         with:
           key: ${{ github.ref }}
           path: .cache
-      - run: pip install mkdocs-material
+      - run: pip install mkdocs-publisher
+      # - run: pip install mkdocs-material
       - run: pip install mkdocs-roamlinks-plugin
       - run: pip install mkdocs-rss-plugin
       - run: pip install mkdocs-git-revision-date-localized-plugin
