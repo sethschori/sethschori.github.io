@@ -35,6 +35,7 @@ extra:
 
 # Extensions
 markdown_extensions:
+  - abbr
   - footnotes
   - attr_list
   - pymdownx.emoji:
