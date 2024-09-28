@@ -1,6 +1,4 @@
----
-slug: definitions-of-degrowth
----
+# Definitions of degrowth
 
 Jason Hickel’s [Degrowth and MMT: A thought experiment](https://www.jasonhickel.org/blog/2020/9/10/degrowth-and-mmt-a-thought-experiment) blog post has this succinct definition of degrowth:
 
