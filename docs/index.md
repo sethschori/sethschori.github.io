@@ -1,4 +1,4 @@
-# hello
+# Hello
 
 I'm Seth and this is my digital garden and blog. My intention with this [digital garden](https://lyz-code.github.io/blue-book/digital_garden/) is to have a place to put information I learn and to build and share knowledge. Unlike blog posts, the entries in this learning garden won't be polished pieces of writing. In fact, if I'm successful at using my garden, there will always be incomplete entries because it will always be a work in progress. Given how blogs can often be oriented towards marketing and promotion, the temptation I'll try to avoid is worrying about how well something reads to others. In the garden, the primary audience is myself. However, posting it online will serve to share that information (and if I'm successful, knowledge) with others, as well as give me some accountability and connection in my learning journey.
 
