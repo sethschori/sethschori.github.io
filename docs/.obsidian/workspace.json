@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "degrowth/definitions-of-degrowth.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "degrowth/definitions-of-degrowth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "degrowth/definitions-of-degrowth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "degrowth/definitions-of-degrowth.md"
               }
             }
           }
@@ -147,8 +147,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "379bebcbb44f1e0b",
+  "active": "388109ec2185598b",
   "lastOpenFiles": [
+    "index.md",
     "other/2024-election.md",
     "degrowth/terminology.md",
     "degrowth/quotes.md",
@@ -159,7 +160,6 @@
     "blog/posts/2019-01-23-next-data-science-steps.md",
     "blog/posts/2019-05-03-web-scraping-embedded-json.md",
     "blog/posts/2018-12-07-getting-started-with-jupyter-notebook.md",
-    "index.md",
     "blog/assets/images/describe.png",
     "blog/assets/images/jupyter_new.png",
     "blog/assets/images/jupyter_hello_world.png",
