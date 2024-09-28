@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/2024-election.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other/2024-election.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Other/2024-election.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Other/2024-election.md"
+                "file": "index.md"
               }
             }
           }
@@ -149,10 +149,10 @@
   },
   "active": "379bebcbb44f1e0b",
   "lastOpenFiles": [
-    "Degrowth/terminology.md",
-    "Degrowth/quotes.md",
-    "Degrowth/definitions-of-degrowth.md",
-    "Other/2024-election.md",
+    "other/2024-election.md",
+    "degrowth/terminology.md",
+    "degrowth/quotes.md",
+    "degrowth/definitions-of-degrowth.md",
     "Other topics/README.md",
     "CNAME",
     "blog/posts/2019-01-08-pandas-vs-sql.md",
