@@ -1,3 +1,5 @@
+# Terminology
+
 I’ve wondered about the difference between the terms “post-growth” and “degrowth” and found this article: [Post-growth, degrowth, the doughnut and circular economy: a short guide](https://ontgroei.degrowth.net/post-growth-degrowth-the-doughnut-and-circular-economy-a-short-guide/) (originally posted at [planetamateur.com](https://planetamateur.com/2022/11/07/post-growth-degrowth-the-doughnut-and-circular-economy-a-short-guide/)). Here are some of my takeaways mixed with my own thoughts:
 
 - The **circular economy** contrasts with the linear economy, which is a one-way path that extracts resources, which are then used and thrown away. The circular economy tries to close loops (William McDonough’s term “cradle to cradle” comes to mind). This can be done by making waste into resource inputs, both at the larger scale of manufacturing (I recall an actual business that uses waste coffee grounds to grow edible mushrooms), to the smaller scale of things like [repair cafes](https://www.repaircafe.org/en/).
