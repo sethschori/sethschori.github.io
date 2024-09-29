@@ -3,9 +3,9 @@
 Here are some ways to take action this election:
 ## Donations
 
-- Support the **Harris Walz campaign** at [kamalaharris.com](https://kamalaharris.com/)
-- Support **Force Multiplier**'s House Impact Slate, Senate Slate, and Blue Surge Turnout Fund at [forcemultiplierus.org](https://www.forcemultiplierus.org/) 
-	- Force Multiplier originally started in the Boston area. They're an all-volunteer group that provides donors with research-based recommendations on which races are most likely to affect the balance of power in the House + Senate.
+- Donate to the **Harris Walz campaign** at [kamalaharris.com](https://kamalaharris.com/)
+- Donate to [**Movement Voter Project** PAC](https://movement.vote/) to help move millions in funding to local grassroots groups turning out the hardest-to-reach voters who can tip the scales in the places that matter most.
+- Support **Force Multiplier**'s House Impact Slate, Senate Slate, and Blue Surge Turnout Fund at [forcemultiplierus.org](https://www.forcemultiplierus.org/). They're an all-volunteer group that provides donors with research-based recommendations on which races are most likely to affect the balance of power in the House + Senate. NOTE: They do not screen candidates on issues.
 
 ## Phone banking
 
