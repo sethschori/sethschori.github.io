@@ -24,4 +24,6 @@ Here are some ways to take action this election:
 	- Next Gen Voters - [organizing.nextgenamerica.org](https://organizing.nextgenamerica.org/) 
 	- Field Team 6 (a consortium of groups) - [www.fieldteam6.org](https://www.fieldteam6.org/)
 	- Reproductive Freedom for All (formerly called NARAL) - [reproductivefreedomforall.org](https://reproductivefreedomforall.org/) 
+
+## Massachusetts Ballot Questions
 - 
