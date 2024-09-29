@@ -26,4 +26,5 @@ Here are some ways to take action this election:
 	- Reproductive Freedom for All (formerly called NARAL) - [reproductivefreedomforall.org](https://reproductivefreedomforall.org/) 
 
 ## Massachusetts Ballot Questions
-- 
+### Question 2: Eliminating MCAS graduation requirement
+- Join canvassing here: [www.yesonquestion2ma.com/join](https://www.yesonquestion2ma.com/join) 
