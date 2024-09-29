@@ -1,6 +1,6 @@
 # 2024 Election
 
-I invite you to join me in any, or all, of these ways that I'm taking action this election season!
+Here are some ways to take action this election:
 ## Donations
 
 - Support the **Harris Walz campaign** at [kamalaharris.com](https://kamalaharris.com/)
@@ -13,7 +13,7 @@ I invite you to join me in any, or all, of these ways that I'm taking action thi
 
 ## Canvassing / Door knocking
 
-- New Hampshire — I’m planning to join other Massachusetts volunteers for [door knocking in Nashua, NH](https://www.mobilize.us/massdems/event/636785/) or [door knocking in Manchester, NH](https://www.mobilize.us/massdems/event/634549/). I’ve heard that New Hampshire’s local and congressional races are important and not a sure thing, and that New Hampshire needs the help from Massachusetts volunteers.
+- New Hampshire — Join other Massachusetts volunteers for [door knocking in Nashua, NH](https://www.mobilize.us/massdems/event/636785/) or [door knocking in Manchester, NH](https://www.mobilize.us/massdems/event/634549/). I’ve heard that New Hampshire’s local and congressional races are important and not a sure thing, and that New Hampshire needs the help from Massachusetts volunteers.
 
 ## Other opportunities
 
