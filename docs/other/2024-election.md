@@ -9,7 +9,8 @@ Here are some ways to take action this election:
 
 ## Phone banking
 
-- Janelle Stelson, PA-10 — Call voters with Massachusetts’ own [Swing Blue Alliance](https://swingbluealliance.org/) to elect Pennsylvania Democrat Janelle Stelson to Congress, fire MAGA Republican Congressman Scott Perry, and Flip the House. Pennsylvania is a battleground state critical to defeating Trump. [Sign up for calling on Thursdays or Sundays](https://www.mobilize.us/swingbluealliance/event/644234/)!
+- Visit [**Swing Blue Alliance**](https://swingbluealliance.org/) — SBA is the largest all-volunteer, Democratic grassroots organization headquartered in Massachusetts. They have all kinds of actions — phone banking, canvassing, texting, postcarding, letter writing, etc. — so you can find what works best for you. 
+	- Janelle Stelson, PA-10 — Call voters with Massachusetts’ own [Swing Blue Alliance](https://swingbluealliance.org/) to elect Pennsylvania Democrat Janelle Stelson to Congress, fire MAGA Republican Congressman Scott Perry, and Flip the House. Pennsylvania is a battleground state critical to defeating Trump. [Sign up for calling on Thursdays or Sundays](https://www.mobilize.us/swingbluealliance/event/644234/)!
 
 ## Canvassing / Door knocking
 
@@ -25,5 +26,4 @@ I'm not directly involved in the following, but wanted to share these opportunit
 	- Jews for Kamala Harris Phonebank — [details and sign up](https://www.mobilize.us/bendthearc/event/687109/).
 - **Go door knocking in swing states with Seed The Vote** — I've heard from a couple of people who are volunteering with [Seed The Vote](https://seedthevote.org/) in Nevada and Michigan. You can read [this blog post about a weekend volunteering with STV in Reno, Nevada](http://caelections.blogspot.com/2024/09/JK-Reno-STV.html) from someone I know. As Jeff writes:
   >STV most needs volunteers in the critical swing states of Arizona, Michigan, Wisconsin, & Pennsylvania. We're knocking in all those states now through election day. For those who need financial support, STV can often help cover hotel & flight costs. To learn more, sign up for an [info session here](https://www.mobilize.us/seedthevote/event/595794/).
-- **Join a phone bank with Swing Blue Alliance** — SBA has [additional phone banking opportunities for calling swing states](https://www.mobilize.us/swingbluealliance/). 
 - **Write some letters with Vote Forward** — Vote Forward is aiming to send 10 million letters this year. Since 2018, their 269,000 volunteers have sent 35.5 million letters, which have been shown to boost turnout by up to 3.4%. Their nonpartisan arm encourages potential voters to register to vote and increase participation of historically underrepresented communities. Their 501(c)(4) arm helps increase voter turnout in political campaigns. I’ve sent letters with them in the past and you don’t need fancy supplies, other than stamps, envelopes, and access to a printer. Learn more and sign up at [votefwd.org](https://votefwd.org/).
