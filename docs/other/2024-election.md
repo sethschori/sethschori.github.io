@@ -24,9 +24,7 @@ Here are some ways to take action this election:
 	- Next Gen Voters - [organizing.nextgenamerica.org](https://organizing.nextgenamerica.org/) 
 	- Field Team 6 (a consortium of groups) - [www.fieldteam6.org](https://www.fieldteam6.org/)
 	- Reproductive Freedom for All (formerly called NARAL) - [reproductivefreedomforall.org](https://reproductivefreedomforall.org/) 
-- **Poll watching**
-	- Poll watching in NH (ongoing dates): [https://www.mobilize.us/nhdp_events/event/684136/](https://www.mobilize.us/nhdp_events/event/684136/)
-	- Poll watching MA (the only date now is today, 9/30 at 6pm): [https://app.protectthevote.net/users/log_in](https://app.protectthevote.net/users/log_in) 
+- **Poll watching training for New Hampshire**: Please join us for one of our [online training](https://www.mobilize.us/nhdp_events/event/684136/) (multiple dates) to be a poll observer in New Hampshire on Election Day 
 
 ## Massachusetts Ballot Questions
 October 9, 6:30 PM Eastern: [Learn more about the ballot questions](https://us06web.zoom.us/meeting/register/tZckceqorTguHtAaOuL4O2k614ihTGJ5Zpk6#/registration), a training by Asian Pacific Islanders Civic Action Network
