@@ -29,3 +29,5 @@ We'll most likely write letters provided by Vote Forward, to Pennsylvania or one
 But if you don’t have time to prepare, no worries — we’ll have everything here for you.
 ## Democracy Happy Hour (4:00-5:00)
 Hang out and celebrate our hard work to support our democracy. We'll have some beers, non-alcoholic beverages, and snacks, and we'd love to hang out and chat!
+
+_This page was lovingly plagiarized from a [similar event](https://caelections.blogspot.com/2024/10/Oct26.html) that Jeff and Kim are hosting in California._
