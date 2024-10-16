@@ -8,5 +8,4 @@ categories:
 tags: []
 ---
 
-## some title
-Tips for formatting: https://squidfunk.github.io/mkdocs-material/reference/formatting/#highlighting-changes
+# Do Something with Rina & Seth
