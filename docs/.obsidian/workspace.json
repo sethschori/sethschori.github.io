@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "other/2024-election.md",
+                "file": "other/do-something.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "other/2024-election.md",
+                "file": "other/do-something.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "other/2024-election.md",
+                "file": "other/do-something.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "other/2024-election.md"
+                "file": "other/do-something.md"
               }
             }
           }
@@ -149,9 +149,10 @@
   },
   "active": "388109ec2185598b",
   "lastOpenFiles": [
+    "other/2024-election.md",
+    "other/do-something.md",
     "degrowth/definitions-of-degrowth.md",
     "index.md",
-    "other/2024-election.md",
     "degrowth/terminology.md",
     "degrowth/quotes.md",
     "Other topics/README.md",
