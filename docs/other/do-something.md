@@ -14,8 +14,8 @@ We need an estimate of the participants by Friday Oct 25th to have enough materi
 ## **Phone Banking** (1:30-4:00)
 We will join a phone bank hosted by the Democratic National Committee to make calls for Kamala Harris and Democrats up and down the ballot in swing states. These days, phone banks use Zoom plus your phone, the Scale To Win autodialer (the best autodialer!) to make the most efficient use of your time, and a script and instructions provided by the campaign. Your phone number will not be shown to callers, and you only use your first name with those whom you’re calling. Note that we're not expert phonebankers or trainers, **so if you plan to phone bank, please:**
 
-- Show up by 1:40 to get a seat, connect to WiFi, make sure your Zoom is up to date, etc.
-- Bring your own smartphone, laptop, and headphones.
+- Show up by 1:40 to get set up, connect to WiFi, make sure your Zoom is up to date, etc.
+- Bring your own phone, laptop, and headphones.
 - Register directly with the DNC by [signing up here](https://events.democrats.org/event/569897/) for the Oct 27th shift from 2-4 PM.
 - We encourage you to have done a previous phonebank (available every day of the week, 6-8 PM on weekdays and 2-4 PM on weekends). But no worries if you haven’t — first timers welcome!
 - If Sunday the 27th is your first phonebank, there _will_ be an on online training over Zoom at 2:00 from the DNC that will take about 45 minutes.
