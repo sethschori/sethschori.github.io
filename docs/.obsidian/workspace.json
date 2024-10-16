@@ -147,8 +147,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "379bebcbb44f1e0b",
+  "active": "388109ec2185598b",
   "lastOpenFiles": [
+    "stylesheets/extra.css",
+    "stylesheets",
     "blog/posts/2099-01-01-TEMPLATE.md",
     "other/do-something.md",
     "blog/posts/Untitled.md",
