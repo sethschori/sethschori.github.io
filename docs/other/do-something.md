@@ -7,7 +7,8 @@ Seth & Rina are hosting an election-related party: to influence the election and
 - **Sunday, October 27th, 1:30 - 5:00 PM**: phone banking, letter writing, and happy hour (see below for details)
 - Location in Arlington will be provided after you RSVP
 
-## **PLEASE RSVP [at this link](https://forms.gle/vetyuaetMwKrwLSw8) as soon as possible.** We need an estimate of the participants by Friday Oct 25th to have enough materials and refreshments.
+## **Please RSVP [at this link](https://forms.gle/vetyuaetMwKrwLSw8) as soon as possible.** 
+We need an estimate of the participants by Friday Oct 25th to have enough materials and refreshments.
 
 ---
 ## **Phone Banking** (1:30-4:00)
