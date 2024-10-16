@@ -1,6 +1,6 @@
 # “Do something” with Seth & Rina — Sun Oct 27
 
-<img alt="Image of Michelle Obama at the 2024 Democratic Convention with subtitle DO SOMETHING!" src="/blog/assets/images/do-something.png" />
+![Michelle Obama at the 2024 Democratic Convention with subtitle DO SOMETHING!](/blog/assets/images/do-something.png)
 
 Action is the best antidote to anxiety. That's why Seth & Rina are hosting an election-related party: to influence the election and be in community together to nourish our democracy. 
 
