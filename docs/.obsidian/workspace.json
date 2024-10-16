@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "other/do-something.md",
+                "file": "blog/posts/2024-10-15-do-something.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "other/do-something.md",
+                "file": "blog/posts/2024-10-15-do-something.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "other/do-something.md",
+                "file": "blog/posts/2024-10-15-do-something.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "other/do-something.md"
+                "file": "blog/posts/2024-10-15-do-something.md"
               }
             }
           }
@@ -147,8 +147,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "388109ec2185598b",
+  "active": "379bebcbb44f1e0b",
   "lastOpenFiles": [
+    "blog/posts/2099-01-01-TEMPLATE.md",
+    "blog/posts/2024-10-15-do-something.md",
+    "blog/posts/Untitled.md",
     "other/2024-election.md",
     "other/do-something.md",
     "degrowth/definitions-of-degrowth.md",
