@@ -12,17 +12,18 @@ PLEASE RSVP at this link (it'll help if you read the rest of this post first). W
 We will join a phone bank hosted by the Democratic National Committee to make calls for Kamala Harris and Democrats up and down the ballot in swing states. These days, phone banks use Zoom plus your phone, the Scale To Win autodialer (the best autodialer!) to make the most efficient use of your time, and a script and instructions provided by the campaign. Your phone number will not be shown to callers, and you only use your first name with those whom you’re calling. Note that we're not expert phonebankers or trainers, **so if you plan to phone bank, please:**
 
 - Show up by 1:40 to get a seat, connect to WiFi, make sure your Zoom is up to date, etc.
-- Bring your own smartphone, laptop, and headphones  
-- Register directly with the DNC by [signing up here](https://events.democrats.org/event/569897/) for the Oct 24th shift from 2-4 PM.
-- We encourage you to have done a previous phonebank (available every day of the week, 6-8 PM on weekdays and 2-4 PM on weekends)! The more you do, the more you'll enjoy it!
-- If Sunday the 27th is your first phonebank, there _will_ be an on online training in the beginning that will take about 45 minutes.
+- Bring your own smartphone, laptop, and headphones.
+- Register directly with the DNC by [signing up here](https://events.democrats.org/event/569897/) for the Oct 27th shift from 2-4 PM.
+- We encourage you to have done a previous phonebank (available every day of the week, 6-8 PM on weekdays and 2-4 PM on weekends). But no worries if you haven’t — first timers welcome!
+- If Sunday the 27th is your first phonebank, there _will_ be an on online training in the beginning from the DNC that will take about 45 minutes.
 ## Letter Writing (2:00-4:00)
-We'll most likely write letters provided by Vote Forward, to Pennsylvania or one of the tight Congressional races in New York. **If you plan to write letters, please:** 
+We'll most likely write letters provided by Vote Forward, to Pennsylvania or one of the tight Congressional races in New York.
 
-- Read about [Vote Forward's approach](https://votefwd.org/about-us) here (no need to create an account or print anything — we'll have all of that ready for you).
-- Read the "Prepare Your Letters" section on their [Instructions page](https://votefwd.org/instructions#prepare-your-letters) (you can ignore most of the stuff above it).
-- See their ["Volunteer Training"](https://votefwd.org/posts/Building-Your-Personal-Story) for tips on how to write a good letter with your own personal story — that'll help you get right to writing when you arrive. 
-- Please bring a pack of 20 stamps (or more!).
+**If you have time in advance, please read the following:** 
+
+- [Vote Forward's approach](https://votefwd.org/about-us) (no need to create an account or print anything)
+- The "Prepare Your Letters" section on their [Instructions page](https://votefwd.org/instructions#prepare-your-letters)
+- ["Volunteer Training"](https://votefwd.org/posts/Building-Your-Personal-Story) for tips on how to write a good letter with your own personal story — that' 
 - Bring your favorite pen(s).
 ## Democracy Happy Hour (4:00-5:00)
 Hang out and celebrate our community investment in democracy. We'll have some beers, non-alcoholic beverages, and snacks, and we'd love to just hang out and chat!
