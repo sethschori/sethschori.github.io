@@ -1,5 +1,7 @@
 # “Do something” with Seth & Rina — Sun Oct 27
 
+![foo]do-something.png]
+
 Action is the best antidote to anxiety. That's why Seth & Rina are hosting an election-related party: to influence the election and be in community together to nourish our democracy. 
 
 - Sunday, October 27th, 1:30 - 5:00 PM: phone banking, letter writing, and happy hour (see below for details)
