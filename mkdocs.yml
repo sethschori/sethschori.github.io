@@ -68,6 +68,7 @@ plugins:
   - git-revision-date-localized
   - roamlinks
   - blog
+  - awesome-pages
   - rss:
       match_path: blog/posts/.* 
       date_from_meta:
