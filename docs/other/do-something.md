@@ -25,9 +25,9 @@ We'll most likely write letters provided by Vote Forward, to Pennsylvania or one
 - The "Prepare Your Letters" section on their [Instructions page](https://votefwd.org/instructions#prepare-your-letters)
 - ["Volunteer Training"](https://votefwd.org/posts/Building-Your-Personal-Story) for tips on how to write a good letter with your own personal story 
 
-Also. bring your favorite pen. But if you don’t have time to prepare, no worries — we’ll have everything here for you.
+But if you don’t have time to prepare, no worries — we’ll have everything here for you.
 ## Democracy Happy Hour (4:00-5:00)
-Hang out and celebrate our hard work to support our democracy. We'll have some beers, non-alcoholic beverages, and snacks, and we'd love to hang out and chat!
+Hang out and celebrate our hard work to support our democracy. We'll have drinks and snacks, and we'd love to hang out and chat!
 
 ---
 
