@@ -15,7 +15,7 @@ We will join a phone bank hosted by the Democratic National Committee to make ca
 - Bring your own smartphone, laptop, and headphones.
 - Register directly with the DNC by [signing up here](https://events.democrats.org/event/569897/) for the Oct 27th shift from 2-4 PM.
 - We encourage you to have done a previous phonebank (available every day of the week, 6-8 PM on weekdays and 2-4 PM on weekends). But no worries if you haven’t — first timers welcome!
-- If Sunday the 27th is your first phonebank, there _will_ be an on online training in the beginning from the DNC that will take about 45 minutes.
+- If Sunday the 27th is your first phonebank, there _will_ be an on online training over Zoom at 2:00 from the DNC that will take about 45 minutes.
 ## Letter Writing (2:00-4:00)
 We'll most likely write letters provided by Vote Forward, to Pennsylvania or one of the tight Congressional races in New York.
 
@@ -30,4 +30,6 @@ But if you don’t have time to prepare, no worries — we’ll have everything 
 ## Democracy Happy Hour (4:00-5:00)
 Hang out and celebrate our hard work to support our democracy. We'll have some beers, non-alcoholic beverages, and snacks, and we'd love to hang out and chat!
 
-_This page was lovingly plagiarized from a [similar event](https://caelections.blogspot.com/2024/10/Oct26.html) that Jeff and Kim are hosting in California._
+
+
+_This page was lovingly copied and adapted from a [similar event](https://caelections.blogspot.com/2024/10/Oct26.html) that Jeff and Kim are hosting in California._
