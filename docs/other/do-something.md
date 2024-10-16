@@ -1,4 +1,4 @@
-# “Do something” with Seth & Rina — Sun Oct 27
+# **“Do something” with Seth & Rina — Sun Oct 27**
 
 ![Michelle Obama at the 2024 Democratic Convention with subtitle DO SOMETHING!](/blog/assets/images/do-something.png)
 
