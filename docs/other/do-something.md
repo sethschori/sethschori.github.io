@@ -1,7 +1,10 @@
-# Do Something with Rina & Seth
+# “Do something” with Seth & Rina
+
+
+
 Action is the best antidote to anxiety. That's why Seth & Rina are hosting an election-related party: to influence the election and be in community together to nourish our democracy. 
 
-- Sunday, October 27th, 1:30 - 5:00 PM (see below for what will happen when)
+- Sunday, October 27th, 1:30 - 5:00 PM: phone banking, letter writing, and happy hour (see below for details)
 - Location in Arlington will be provided after you RSVP
 
 PLEASE RSVP at this link (it'll help if you read the rest of this post first). We need a good estimate of the number of people by Fri Oct 25th, so we make sure to have enough materials and refreshments.
