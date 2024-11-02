@@ -12,7 +12,7 @@ The election is trending towards Democrats, but it’s definitely not a sure thi
 - Make calls to get out the vote for critical Senate candidates:
 	- Sen. Jon Tester, Montana — [sign up for shifts](https://www.mobilize.us/bigskyvictory/event/703769/) on **Sat 11/2 through Tue 11/5** nearly anytime.
 	- Sen. Tammy Baldwin and Harris/Walz, Wisconsin — [sign up for shifts](https://www.mobilize.us/wisdems/event/701123/) on **Sat 11/2 through Tue 11/5** between 11:00 AM - 9:00 PM Eastern.
-	- Sen. Bob Casey, Harris/Walz, and down ballot candidates, Pennsylvania — [sign up for shifts](https://www.mobilize.us/2024pavictory/event/723274/) on **Sat 11/2, Sun 11/3, Mon 11/4, or Tue 11/5** between 9:00 AM - 9:00 PM Eastern.
+	- Sen. Bob Casey, Harris/Walz, and down ballot candidates, Pennsylvania — [sign up for shifts](https://www.mobilize.us/2024pavictory/event/723274/) on **Sat 11/2 through Tue 11/5** between 9:00 AM - 9:00 PM Eastern.
 - Sign up to volunteer directly with the Harris/Walz campaign — online or in person — at [go.kamalaharris.com](https://go.kamalaharris.com/).
 ## Phone Banks Post-Election Day: “Cure” Absentee Ballots
 This election will be very close and every vote must be counted. Vote/ballot curing is the process of helping voters who have had their absentee ballot rejected by their local clerk for an issue with the signature or address. If these voters don’t take steps to fix or “cure” their ballots, their votes will not be counted! You’ll call these voters to inform them of the problem and guide them to cure their ballot.
