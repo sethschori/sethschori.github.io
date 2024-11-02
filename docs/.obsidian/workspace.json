@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "other/do-something.md",
+                "file": "other/2024-election-ending.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-election-ending"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "other/do-something.md",
+                "file": "other/2024-election-ending.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-election-ending"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "other/do-something.md",
+                "file": "other/2024-election-ending.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-election-ending"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "other/do-something.md"
-              }
+                "file": "other/2024-election-ending.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-election-ending"
             }
           }
         ]
@@ -149,6 +165,9 @@
   },
   "active": "388109ec2185598b",
   "lastOpenFiles": [
+    "other/2024-election.md",
+    "other/2024-election-ending.md",
+    "other/do-something.md",
     "degrowth/terminology.md",
     "degrowth/quotes.md",
     "degrowth/definitions-of-degrowth.md",
@@ -164,12 +183,10 @@
     "blog/posts/2019-01-23-next-data-science-steps.md",
     "blog/posts/2019-05-03-web-scraping-embedded-json.md",
     "blog/posts/2018-12-04-installing-anaconda-in-ubuntu.md",
-    "other/do-something.md",
     "stylesheets/extra.css",
     "stylesheets",
     "blog/posts/2099-01-01-TEMPLATE.md",
     "blog/posts/Untitled.md",
-    "other/2024-election.md",
     "index.md",
     "Other topics/README.md",
     "CNAME",
