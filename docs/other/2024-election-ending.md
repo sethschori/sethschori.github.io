@@ -1,6 +1,6 @@
 # 2024 Election: Final Days and Next Steps
 
-## Phone Banks: Get Out the Vote (until Election Day)
+## Phone Banks until Election Day: Get Out the Vote (until Election Day)
 - Call to get out the vote in Wisconsin and Pennsylvania with Swing Blue Alliance. [Sign up for two-hour shifts](https://www.mobilize.us/swingbluealliance/event/726445/) on **Sat 11/2, Sun 11/3, or Mon 11/4** between 12:00 - 8:00 PM Eastern.
 - Call to get out the vote in Charlotte/Mecklenburg County, North Carolina with Swing Blue Alliance. [Sign up for two-hour shifts](https://www.mobilize.us/swingbluealliance/event/569199/) on **Sat 11/2 through Tue 11/5**.
 - Call White voters in battleground states whose real interests lie with a united working class, but whom MAGA is trying to peel off with division and hatred. Join the Many Over MAGA Phonebanks! [Sign up for shifts](https://www.mobilize.us/surj/event/653094/) on **Sat 11/2 through Tue 11/5**.
