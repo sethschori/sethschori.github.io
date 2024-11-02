@@ -35,6 +35,9 @@ This will likely be a nail biter past Election Day. Here are some opportunities 
 - [“Red Wave” Redux: Are GOP Polls Rigging the Averages in Trump’s Favor?](https://newrepublic.com/article/187425/gop-polls-rigging-averages-trump): Polling by right-leaning firms has exploded this cycle. It could be that they’re trying to create a (false) sense of momentum for Donald Trump.
 - [Our Elections Are Not Fragile](https://www.brennancenter.org/our-work/analysis-opinion/our-elections-are-not-fragile): This article from the Brennan Center highlights two large trends in our elections. First, election deniers have ramped up their attacks. Second, despite these attacks, our election system is stronger than it was in 2020 and better equipped to repel these attacks.
 - [5 Days Out I Would Much Rather Be Us Than Them - New 2024 Election Analysis and Video With Tom Bonier](https://www.hopiumchronicles.com/p/i-would-much-rather-be-us-than-them-aec) analysis from the Hopium Chronicles, excerpts:
+
     >R\[epublican]s would only be working so hard to shape the national narrative to make it look like Trump is winning if they believed he wasn’t.
+    >
     >Dems are matching our 2020 results in the battlegrounds despite the current battleground electorate being older, whiter, more male and more rural than at this point in 2020. This is really good. Next, as we expect both the R\[epublican] and unaffiliated vote to be more Democratic this time, it is very likely we are today running ahead of 2020 in the 7 battleground states. This too is really good.
+    
 - [Why voting is a chess move, not a love letter](https://www.youtube.com/watch?v=MQZq26KZUQI&t=130s):  a two-minute video from Maurice Mitchell of the Working Families Party.
