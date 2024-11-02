@@ -2,6 +2,7 @@
 
 ## Phone Banks Through Election Day: Get Out the Vote
 The election is trending towards Democrats, but it’s definitely not a sure thing. So we need to do all we can to keep turning out voters through Election Day. Here are some opportunities:
+
 - Call to get out the vote in Wisconsin and Pennsylvania with Swing Blue Alliance. [Sign up for two-hour shifts](https://www.mobilize.us/swingbluealliance/event/726445/) on **Sat 11/2, Sun 11/3, or Mon 11/4** between 12:00 - 8:00 PM Eastern.
 - Call to get out the vote in Charlotte/Mecklenburg County, North Carolina with Swing Blue Alliance. [Sign up for two-hour shifts](https://www.mobilize.us/swingbluealliance/event/569199/) on **Sat 11/2 through Tue 11/5**.
 - Call White voters in battleground states whose real interests are aligned with the working class, but whom MAGA is trying to peel off through division and hatred. Join SURJ’s Many Over MAGA Phonebanks! [Sign up for shifts](https://www.mobilize.us/surj/event/653094/) on **Sat 11/2 through Tue 11/5**.
@@ -15,13 +16,15 @@ The election is trending towards Democrats, but it’s definitely not a sure thi
 - Sign up to volunteer directly with the Harris/Walz campaign — online or in person — at [go.kamalaharris.com](https://go.kamalaharris.com/).
 ## Phone Banks Post-Election Day: “Cure” Absentee Ballots
 This election will be very close and every vote must be counted. Vote/ballot curing is the process of helping voters who have had their absentee ballot rejected by their local clerk for an issue with the signature or address. If these voters don’t take steps to fix or “cure” their ballots, their votes will not be counted! You’ll call these voters to inform them of the problem and guide them to cure their ballot.
+
 - Arizona phone bank, [sign up for shifts](https://www.mobilize.us/azdems/event/717867/) from **Wed 11/6 through Sat 11/9**
 - Michigan phone bank, [sign up for the shift](https://www.mobilize.us/2024mivictory/event/724863/) on **Wed 11/6** from 6:00 - 8:00 PM Eastern
 - Nevada phone bank, [sign up for shifts](https://www.mobilize.us/2024nvvictory/event/724469/) from **Wed 11/6 through Tue 11/12**
 - North Carolina **trainings** for future shifts, [sign up](https://www.mobilize.us/ncvictory2024/event/709165/) for **Wed 11/6** from 12:00 - 1:00 or 7:00 - 8:00 Eastern
 - Across the battlegrounds with Harris/Walz to the states that need help most, [sign up for shifts](https://events.democrats.org/event/684133/) on **Wed 11/6, Sat-Mon 11/9-11/11, and Wed 11/13**
 ## Plug In Post-Election Day: Next Steps and Analysis
-This will likely be a nail biter past Election Day. Here are some opportunities to make meaning of the moment, 
+This will likely be a nail biter past Election Day. Here are some opportunities to make meaning of the moment, connect with others, and hear about next steps regardless of who wins:
+
 - **Power to the People: Where We Go From Here** — Join the Workers Circle for a post-election discussion featuring Ari Berman of People For the American Way; courts expert Marge Baker; and Andrea Miller, founder of the Center for Common Ground. We'll explore the political landscape and our role in defending democracy, voting rights, and court reform. [Sign up](https://us02web.zoom.us/meeting/register/tZMpdu6pqDwtH9XIzrp7nk2s51HqZesarWsd#/registration), ask questions, and connect with activists nationwide on **Tue 11/12**, 7:00 PM Eastern.
 - **Movement Voter PAC Briefing: What Just Happened?!** — Join Movement Voter PAC on Zoom to jump for joy, cry bitter tears, or bite our nails awaiting delayed results in the company of like-minded Democratic and progressive donors, activists, organizers, and strategists. [Sign up](https://movement.vote/register/4lq4x9fv/?trackingcode=email-2024-10-25&blm_aid=6172358657) for **Wed 11/6** at 3:00 PM Eastern.
 - **White People’s Work After the Election** with Showing Up For Racial Justice (SURJ) — No matter what happens on November 5, there will be important work for all of us to do in the days following. Join SURJ, the largest US organization that explicitly organizes white people for racial, economic and gender justice, for immediate calls to action to ensure every vote is counted and certified. White communities, organized by MAGA forces, are in the way of us winning on every issue we care about. Win or lose in this election, white people will have an important responsibility and role to play to reject Trump’s plays for white support — and to bring thousands more white people into the multiracial movement we need to win. [Sign up](https://www.mobilize.us/surj/event/733189/) for **Wed 11/6**, 8:00 PM Eastern.
