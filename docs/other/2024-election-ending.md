@@ -1,11 +1,13 @@
 # 2024 Election: Final Days and Moving Forward
 
 ## Phone Banks
-- Call to get out the vote in Wisconsin and Pennsylvania with Swing Blue Alliance. [Sign up for two hour shifts](https://www.mobilize.us/swingbluealliance/event/726445/) on Saturday 11/2, Sunday 11/3, or Monday 11/4 between 12:00 - 8:00 PM Eastern.
-- 
-CALL-A-PALOOZA with Center for Common Ground
-
-We are calling Black voters in SIX different states for EIGHT hours, encouraging them to vote and providing resources that make it easier to check where they are registered and find the voting information they need.
+- Call to get out the vote in Wisconsin and Pennsylvania with Swing Blue Alliance. [Sign up for two hour shifts](https://www.mobilize.us/swingbluealliance/event/726445/) on **Sat 11/2, Sun 11/3, or Mon 11/4** between 12:00 - 8:00 PM Eastern.
+- Call Black voters in six different states with Center for Common Ground, encouraging them to vote and providing resources that make it easier to check where they are registered and find the voting information they need. [Sign up for any amount of time](https://actionnetwork.org/events/callapalooza-november-3?source=direct_link&referrer=group-the-workers-circle) on **Sun 11/3** between 12:00 - 8:00 PM Eastern.
 ## Post-Election Day
+- **Power to the People: Where We Go From Here** — Join the Workers Circle for a post-election discussion featuring award-winning author Ari Berman, VP at People For the American Way; courts expert Marge Baker; and Andrea Miller, founder of the Center for Common Ground. We'll explore the political landscape and our role in defending democracy, voting rights, and court reform. Tue 11/12, 7:00 PM ET
+
+Noelle Damico, Director of Social Justice at the Workers Circle, will lead the conversation, followed by a 30-minute Q and A session. Bring your questions to this important gathering as we connect with activists nationwide to fight for our democracy.
+
+ASL and Closed Captioning will be provided.
 - Swing Blue Alliance is holding post-election drop-in Zoom sessions for three days after the election. Volunteers from the Swing Blue leadership team will be there to offer support, answer questions, celebrate our successes, and provide community. [Sign up for drop-ins](https://www.mobilize.us/swingbluealliance/event/740136/) on Wed 11/6, Thu 11/7, Fri 11/8 @ 1:00-2:00 PM or 6:00-7:00 PM Eastern.
 - 
