@@ -10,8 +10,8 @@ The election is trending towards Democrats, but it’s definitely not a sure thi
 - Call Black voters in Florida with Center for Common Ground, encouraging them to vote and providing resources that make it easier to check where they are registered and find the voting information they need. [Sign up for a two-hour shift](https://www.mobilize.us/cfcg-rov/event/709186/)  on **Mon 11/4** from 4:00 - 6:00 PM Eastern.
 - Fight voter suppression in North Carolina by phone banking to rural voters of color with Center for Common Ground and the Workers Circle. We’ll be calling to learn which issues are most important to them, help them make a voting plan, and know the voter ID they need to bring. [Sign up](https://us02web.zoom.us/meeting/register/tZwsdOmhpjMoGtTCZ2povk3lxDJSgdvVBvk0#/registration) for **Mon 11/4** from 6:00 - 8:00 PM.
 - Make calls to get out the vote for critical Senate candidates:
-	- Sen. Jon Tester, Montana — [sign up for shifts](https://www.mobilize.us/bigskyvictory/event/703769/) on **Sat 11/2, Sun 11/3, Mon 11/4, or Tue 11/5** between 11:00 AM - 11:00 PM Eastern.
-	- Sen. Tammy Baldwin and Harris/Walz, Wisconsin — [sign up for shifts](https://www.mobilize.us/wisdems/event/701123/) on **Sat 11/2, Sun 11/3, Mon 11/4, or Tue 11/5** between 11:00 AM - 9:00 PM Eastern.
+	- Sen. Jon Tester, Montana — [sign up for shifts](https://www.mobilize.us/bigskyvictory/event/703769/) on **Sat 11/2 through Tue 11/5** nearly anytime.
+	- Sen. Tammy Baldwin and Harris/Walz, Wisconsin — [sign up for shifts](https://www.mobilize.us/wisdems/event/701123/) on **Sat 11/2 through Tue 11/5** between 11:00 AM - 9:00 PM Eastern.
 	- Sen. Bob Casey, Harris/Walz, and down ballot candidates, Pennsylvania — [sign up for shifts](https://www.mobilize.us/2024pavictory/event/723274/) on **Sat 11/2, Sun 11/3, Mon 11/4, or Tue 11/5** between 9:00 AM - 9:00 PM Eastern.
 - Sign up to volunteer directly with the Harris/Walz campaign — online or in person — at [go.kamalaharris.com](https://go.kamalaharris.com/).
 ## Phone Banks Post-Election Day: “Cure” Absentee Ballots
