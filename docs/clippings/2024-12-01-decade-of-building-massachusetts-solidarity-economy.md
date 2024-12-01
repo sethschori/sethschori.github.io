@@ -6,4 +6,6 @@ The article describes:
 - New entities in the realms of food and land, such as new land trusts organized within the Greater Boston Community Land Trust Network, the Dorchester Food Co-op, and CERO composting.
 - New funding support through Boston Impact Initiative and Boston Ujima Project, as well as $2M in participatory budgeting in Boston.
 - The founding of a state office to support worker ownership: Massachusetts Center for Employee Ownership (MassCEO), which was likely to receive funding in the state budget, last I had seen.
-- Efforts to fight the harms of the dominant economic system through 
+- Efforts to fight the harms of the dominant economic system through the creation of permanently affordable housing. And while several groups have made impressive gains, I find the relatively small number of units sobering as to the level of work it takes to move housing out of the speculative market.
+
+The second half of the article looks at the mindset and thought patterns embedded in capitalism, 
