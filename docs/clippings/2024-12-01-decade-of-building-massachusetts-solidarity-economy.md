@@ -1,0 +1,2 @@
+# A decade of building the Massachusetts solidarity economy
+[Building the Solidarity Economy: A Decade’s Assessment](https://nonprofitquarterly.org/building-the-solidarity-economy-a-decades-assessment/)
