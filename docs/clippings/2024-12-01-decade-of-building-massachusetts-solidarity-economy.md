@@ -8,4 +8,4 @@ The article describes:
 - The founding of a state office to support worker ownership: Massachusetts Center for Employee Ownership (MassCEO), which was likely to receive funding in the state budget, last I had seen.
 - Efforts to fight the harms of the dominant economic system through the creation of permanently affordable housing. And while several groups have made impressive gains, I find the relatively small number of units sobering as to the level of work it takes to move housing out of the speculative market.
 
-The second half of the article looks at the mindset and thought patterns embedded in capitalism, 
+The second half of the article looks at the challenges posed by the mindset and thought patterns embedded in the interconnected systems of oppression of “capitalism, heteropatriarchy, and imperialism”. For example, funders had hoped that projects would be ready to fund in a linear fashion, which didn’t happen, but there is a broader need to shift culture, make decisions together in non-hierarchical relationships, 
