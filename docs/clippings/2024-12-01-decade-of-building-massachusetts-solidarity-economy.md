@@ -1,2 +1,3 @@
 # A decade of building the Massachusetts solidarity economy
-[Building the Solidarity Economy: A Decade’s Assessment](https://nonprofitquarterly.org/building-the-solidarity-economy-a-decades-assessment/)
+
+In [Building the Solidarity Economy: A Decade’s Assessment](https://nonprofitquarterly.org/building-the-solidarity-economy-a-decades-assessment/), educator, researcher, and activist Penn Loh takes stock of the past decade of effort to build a solidarity economy in the Boston area and Massachusetts. While I had heard about many of these projects and organizations from Penn’s Solidarity Economy Movements course which I audited, I hadn’t realized how so many of these organizations had 
