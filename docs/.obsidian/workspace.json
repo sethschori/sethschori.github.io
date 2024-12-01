@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "other/2024-election.md",
+                "file": "clippings/2024-12-01-zapatismo-30th-anniversary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-election"
+              "title": "2024-12-01-zapatismo-30th-anniversary"
             }
           }
         ]
@@ -165,9 +165,11 @@
   },
   "active": "388109ec2185598b",
   "lastOpenFiles": [
+    "other/2024-election.md",
+    "clippings/2024-12-01-zapatismo-30th-anniversary.md",
+    "clippings",
     "other/do-something.md",
     "other/2024-election-ending.md",
-    "other/2024-election.md",
     "degrowth/terminology.md",
     "degrowth/quotes.md",
     "degrowth/definitions-of-degrowth.md",
