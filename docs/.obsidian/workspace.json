@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "91f6d67a3326ee3a",
+        "id": "9e9c3918efb8a7ca",
         "type": "tabs",
         "children": [
           {
-            "id": "28cd6992d32723ec",
+            "id": "d6bb0cbfbca8f385",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -160,7 +160,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "28cd6992d32723ec",
+  "active": "d6bb0cbfbca8f385",
   "lastOpenFiles": [
     "clippings/2024-12-01-decade-of-building-massachusetts-solidarity-economy.md",
     "clippings/2024-12-01-zapatismo-30th-anniversary.md",
